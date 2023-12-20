@@ -26,7 +26,6 @@ Antes de começar a usar a calculadora, você precisa definir qual é a nota mé
  1. HTML 
 2. CSS 
 3. JAVASCRIPT
-4. JQUERY
 
 ## Suporte
 
