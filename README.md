@@ -21,6 +21,13 @@ Antes de começar a usar a calculadora, você precisa definir qual é a nota mé
 
 4. **Ver resultados**: Você pode continuar adicionando todas as atividades e na tela automaticamente será mostrado o cálculo e informado se o aluno está aprovado ou reprovado.
 
+## Tenologias usadas na construção
+
+ 1. HTML 
+2. CSS 
+3. JAVASCRIPT
+4. JQUERY
+
 ## Suporte
 
 #
@@ -38,6 +45,3 @@ Antes de começar a usar a calculadora, você precisa definir qual é a nota mé
 
 #
 
-## Status do Projeto
-
-#
